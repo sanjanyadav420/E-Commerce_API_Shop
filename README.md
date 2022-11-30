@@ -13,3 +13,12 @@
 
 # Modules
 - AdminController
+- AdminLoginController
+- basicErrorController
+- BillController
+- CartController
+- CategoryController
+- CustomerController
+- OrderController
+- ProductController
+- UserLoginController
